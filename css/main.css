@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: #FFD8D1;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: #E8CABE;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: #FFECDE;
 }
 
 
@@ -60,23 +60,23 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: #FFDCDE;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #9BBACC;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #91A6B3;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #FFFEC2;
   }
 
   footer {
-    background-color: ;
+    background-color: #B3888A;
   }
   
 }
